@@ -6,7 +6,6 @@ type Profile struct {
 	Address  string
 	Tel      string
 	NameKana string
-	Option   string
 }
 
 func GetProfile1() Profile {
